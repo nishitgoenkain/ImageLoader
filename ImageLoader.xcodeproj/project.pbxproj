@@ -44,6 +44,7 @@
 		1DAD73342BD3CAE600ED0D98 /* ImageLoaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageLoaderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DAD73382BD3CAE600ED0D98 /* ImageLoaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoaderUITests.swift; sourceTree = "<group>"; };
 		1DAD733A2BD3CAE600ED0D98 /* ImageLoaderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoaderUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1DAD73472BD3CCDD00ED0D98 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +97,7 @@
 			children = (
 				1DAD731D2BD3CAE500ED0D98 /* ImageLoaderApp.swift */,
 				1DAD731F2BD3CAE500ED0D98 /* ContentView.swift */,
+				1DAD73472BD3CCDD00ED0D98 /* README.md */,
 				1DAD73212BD3CAE600ED0D98 /* Assets.xcassets */,
 				1DAD73232BD3CAE600ED0D98 /* Preview Content */,
 			);
