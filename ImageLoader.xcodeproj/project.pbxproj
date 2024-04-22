@@ -50,7 +50,6 @@
 		1DAD73342BD3CAE600ED0D98 /* ImageLoaderUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ImageLoaderUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DAD73382BD3CAE600ED0D98 /* ImageLoaderUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoaderUITests.swift; sourceTree = "<group>"; };
 		1DAD733A2BD3CAE600ED0D98 /* ImageLoaderUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageLoaderUITestsLaunchTests.swift; sourceTree = "<group>"; };
-		1DAD73472BD3CCDD00ED0D98 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		1DAD73482BD3CFF300ED0D98 /* ImageListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageListViewModel.swift; sourceTree = "<group>"; };
 		1DAD734A2BD3D06000ED0D98 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -109,7 +108,6 @@
 				1DAD73482BD3CFF300ED0D98 /* ImageListViewModel.swift */,
 				1D49280A2BD4F0E0007B8D04 /* ImageView.swift */,
 				1DAD734A2BD3D06000ED0D98 /* NetworkManager.swift */,
-				1DAD73472BD3CCDD00ED0D98 /* README.md */,
 				1DAD73212BD3CAE600ED0D98 /* Assets.xcassets */,
 				1DAD73232BD3CAE600ED0D98 /* Preview Content */,
 			);
