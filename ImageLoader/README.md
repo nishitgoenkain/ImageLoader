@@ -8,6 +8,7 @@ This is a SwiftUI application for iOS to efficiently load and display images in 
 - Display: Ability to scroll through at least 100 images.
 - Caching: Caching mechanism to store images retrieved from the API in both memory and disk cache for efficient retrieval.
  - Error Handling: Handling of network errors and image loading failures gracefully, providing informative error messages and placeholders for failed image loads.
+ - Once user scrolls quickly, the image loading of non-visible grid items is cancelled and loading for the visible grid items is resumed.
 
 ## Installation
 
@@ -27,3 +28,7 @@ git clone https://github.com/nishitgoenkain/ImageLoader.git
 ## Dependencies
 
 - None
+
+## Future Enhancement
+
+- Pagination can be added once the API supports it.
